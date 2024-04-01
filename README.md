@@ -3,9 +3,9 @@ The purpose of this code is to learn the mechanics of Football Betting and use M
 
 ## Requirements
 - Python
-- requests
-- mathplotlib
-- numpy
+- requests: `python -m install requests`
+- mathplotlib: `python -m install -U matplotlib`
+- numpy: `python -m install numpy`
 
 ## Introduction
 ...
