@@ -5,6 +5,7 @@ The purpose of this code is to learn the mechanics of Football Betting and use M
 - Python
 - requests
 - mathplotlib
+- numpy
 
 ## Introduction
 ...
